@@ -889,7 +889,7 @@
                 {
                     "name": "CCTV-6",
                     "urls": [
-                        "rtsp://115.153.247.80:554/PLTV/88888888/224/3221226843/63329570.smil"
+                        "rtsp://115.153.247.80:554/PLTV/88888888/224/3221226843/63329570.smil",
                         "http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225683/index.m3u8",
                         "http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225715/index.m3u8",
                         "http://womlive.cloud.wo.cn/tvlive/100002/otpzod_otpzod,100002_hls_pull_2000K_live.m3u8",
